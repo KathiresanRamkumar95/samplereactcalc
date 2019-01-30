@@ -1,2 +1,0 @@
-# samplereactcalc
-Created with CodeSandbox

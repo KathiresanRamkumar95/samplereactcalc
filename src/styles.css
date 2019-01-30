@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.kathir {
+  color: red;
+  padding: 10px;
+  border: 1px solid black;
+  width: 20%;
+  margin: auto;
+}
+.input {
+  border: 1px solid;
+  outline: none;
+  box-shadow: 0.5px 0.5px 0.5px 0.5px;
+  padding: 10px;
+}
+
+.button {
+  padding: 10px;
+  text-align: center;
+  border: none;
+  outline: none;
+  margin-top: 10px;
+}
